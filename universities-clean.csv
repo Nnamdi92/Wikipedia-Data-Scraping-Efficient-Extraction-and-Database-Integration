@@ -1,19 +1,19 @@
 Rank,Institution,city,Continent,Founded,Affiliation,DeliveryMode,Enrollment,link,Country,ContinentID,CountryID,LocationID,AffiliationID,DeliveryModeID,InstitutionID,RankingID
 1,Indira Gandhi National Open University,New Delhi,Asia,1985,Public,Distance/In-Person,7140000,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University,India,CO01,CN01,LO01,AF01,DM01,IN01,RA001
 2,"National University, Bangladesh",Gazipur,Asia,1992,Public,In-Person,3425832,"https://en.wikipedia.org/wiki/National_University,_Bangladesh",Bangladesh,CO01,CN02,LO02,AF01,DM02,IN02,RA002
-3,Anadolu University,EskiÅehir,Asia,1958,Public,Distance/In-Person,1974343,https://en.wikipedia.org/wiki/Anadolu_University,Turkey,CO01,CN03,LO03,AF01,DM01,IN03,RA003
+3,Anadolu University,Eskişehir,Asia,1958,Public,Distance/In-Person,1974343,https://en.wikipedia.org/wiki/Anadolu_University,Turkey,CO01,CN03,LO03,AF01,DM01,IN03,RA003
 4,California Community Colleges,California,North America,1967,Public,In-Person,1800000,https://en.wikipedia.org/wiki/California_Community_Colleges,United States,CO02,CN04,LO04,AF01,DM02,IN04,RA004
-5,Islamic Azad University,,Asia,1982,Private,In-Person,1778000,https://en.wikipedia.org/wiki/Islamic_Azad_University,Iran,CO01,CN05,LO05,AF02,DM02,IN05,RA005
+5,Islamic Azad University,Iran,Asia,1982,Private,In-Person,1778000,https://en.wikipedia.org/wiki/Islamic_Azad_University,Iran,CO01,CN05,LO05,AF02,DM02,IN05,RA005
 6,Allama Iqbal Open University,Islamabad,Asia,1974,Public,Distance/In-Person,1027000,https://en.wikipedia.org/wiki/Allama_Iqbal_Open_University,Pakistan,CO01,CN06,LO06,AF01,DM01,IN06,RA006
-7,"Laureate Education, Inc.",,Global,1999,Private,Distance/In-Person,875000,"https://en.wikipedia.org/wiki/Laureate_Education,_Inc.",International,CO03,CN07,LO07,AF02,DM01,IN07,RA007
+7,"Laureate Education, Inc.",International,Global,1999,Private,Distance/In-Person,875000,"https://en.wikipedia.org/wiki/Laureate_Education,_Inc.",International,CO03,CN07,LO07,AF02,DM01,IN07,RA007
 8,Bangladesh Open University,Gazipur,Asia,1992,Public,Distance,650000,https://en.wikipedia.org/wiki/Bangladesh_Open_University,Bangladesh,CO01,CN02,LO02,AF01,DM03,IN08,RA008
 9,Universitas Terbuka,Jakarta,Asia,1984,Public,Distance,646467,https://en.wikipedia.org/wiki/Universitas_Terbuka,Indonesia,CO01,CN08,LO08,AF01,DM03,IN09,RA009
-10,National Technological Institute of Mexico,,North America,1948,Public,In-Person,620000,https://en.wikipedia.org/wiki/National_Technological_Institute_of_Mexico,Mexico,CO02,CN09,LO09,AF01,DM02,IN10,RA010
+10,National Technological Institute of Mexico,Mexico,North America,1948,Public,In-Person,620000,https://en.wikipedia.org/wiki/National_Technological_Institute_of_Mexico,Mexico,CO02,CN09,LO09,AF01,DM02,IN10,RA010
 11,Savitribai Phule Pune University,"Pune, Maharashtra",Asia,1948,Public,In-Person,665000,https://en.wikipedia.org/wiki/Savitribai_Phule_Pune_University,India,CO01,CN01,LO10,AF01,DM02,IN11,RA011
 12,Chaudhary Charan Singh University,"Meerut, Uttar Pradesh",Asia,1965,Public,In-Person,560000,https://en.wikipedia.org/wiki/Chaudhary_Charan_Singh_University,India,CO01,CN01,LO11,AF01,DM02,IN12,RA012
 13,University of Mumbai,"Mumbai, Maharashtra",Asia,1857,Public,In-Person,549432,https://en.wikipedia.org/wiki/University_of_Mumbai,India,CO01,CN01,LO12,AF01,DM02,IN13,RA013
 14,Ramkhamhaeng University,Bangkok,Asia,1971,Public,In-Person,525000,https://en.wikipedia.org/wiki/Ramkhamhaeng_University,Thailand,CO01,CN10,LO13,AF01,DM02,IN14,RA014
-15,National Open University of Nigeria,,Africa,2002,Public,Distance,515000,https://en.wikipedia.org/wiki/National_Open_University_of_Nigeria,Nigeria,CO04,CN11,LO14,AF01,DM03,IN15,RA015
+15,National Open University of Nigeria,Nigeria,Africa,2002,Public,Distance,515000,https://en.wikipedia.org/wiki/National_Open_University_of_Nigeria,Nigeria,CO04,CN11,LO14,AF01,DM03,IN15,RA015
 16,California State University system,California,North America,1857,Public,In-Person,457992,https://en.wikipedia.org/wiki/California_State_University,United States,CO02,CN04,LO04,AF01,DM02,IN16,RA016
 17,Tribhuvan University,Kirtipur,Asia,1959,Public,In-Person,454065,https://en.wikipedia.org/wiki/Tribhuvan_University,Nepal,CO01,CN12,LO15,AF01,DM02,IN17,RA017
 18,University of the Punjab,"Lahore, Punjab",Asia,1882,Public,In-Person,450000,https://en.wikipedia.org/wiki/University_of_the_Punjab,Pakistan,CO01,CN06,LO16,AF01,DM02,IN18,RA018
@@ -21,35 +21,35 @@ Rank,Institution,city,Continent,Founded,Affiliation,DeliveryMode,Enrollment,link
 20,State University System of Florida,Florida,North America,1954,Public,In-Person,430000,https://en.wikipedia.org/wiki/State_University_System_of_Florida,United States,CO02,CN04,LO18,AF01,DM02,IN20,RA020
 21,University System of Ohio,Ohio,North America,2007,Public,In-Person,429310,https://en.wikipedia.org/wiki/University_System_of_Ohio,United States,CO02,CN04,LO19,AF01,DM02,IN21,RA021
 22,University of Delhi,Delhi,Asia,1922,Public,In-Person/Distance,700000,https://en.wikipedia.org/wiki/University_of_Delhi,India,CO01,CN01,LO20,AF01,DM04,IN22,RA022
-23,Payame Noor University,,Asia,1987,Public,Distance/In-Person,400000,https://en.wikipedia.org/wiki/Payame_Noor_University,Iran,CO01,CN05,LO05,AF01,DM01,IN23,RA023
+23,Payame Noor University,Iran,Asia,1987,Public,Distance/In-Person,400000,https://en.wikipedia.org/wiki/Payame_Noor_University,Iran,CO01,CN05,LO05,AF01,DM01,IN23,RA023
 24,Sikkim Manipal University,Sikkim,Asia,1995,Private,In-Person,390000,https://en.wikipedia.org/wiki/Sikkim_Manipal_University,India,CO01,CN01,LO21,AF02,DM02,IN24,RA024
 25,University of South Africa,"Pretoria, Gauteng",Africa,1873,Public,Distance,370000,https://en.wikipedia.org/wiki/University_of_South_Africa,South Africa,CO04,CN13,LO22,AF01,DM03,IN25,RA025
 26,State University of New York system,New York,North America,1948,Public,In-Person,363612,https://en.wikipedia.org/wiki/State_University_of_New_York,United States,CO02,CN04,LO23,AF01,DM02,IN26,RA026
 27,National Autonomous University of Mexico,Mexico City,North America,1551,Public,In-Person,356530,https://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico,Mexico,CO02,CN09,LO24,AF01,DM02,IN27,RA027
-28,National Centre for Distance Education,,Europe,1939,Public,Distance,350000,https://en.wikipedia.org/wiki/Centre_national_d%27enseignement_%C3%A0_distance,France,CO05,CN14,LO25,AF01,DM03,IN28,RA028
+28,National Centre for Distance Education,France,Europe,1939,Public,Distance,350000,https://en.wikipedia.org/wiki/Centre_national_d%27enseignement_%C3%A0_distance,France,CO05,CN14,LO25,AF01,DM03,IN28,RA028
 29,University System of Georgia,Georgia,North America,1931,Public,In-Person,318027,https://en.wikipedia.org/wiki/University_System_of_Georgia,United States,CO02,CN04,LO26,AF01,DM02,IN29,RA029
 30,University of Buenos Aires,Buenos Aires,South America,1821,Public,In-Person,316050,https://en.wikipedia.org/wiki/University_of_Buenos_Aires,Argentina,CO06,CN15,LO27,AF01,DM02,IN30,RA030
 30,Minnesota State Colleges and Universities,Minnesota,North America,1995,Public,In-Person,300000,https://en.wikipedia.org/wiki/Minnesota_State_Colleges_and_Universities,United States,CO02,CN04,LO28,AF01,DM02,IN31,RA031
 31,Osmania University,"Hyderabad, Telangana",Asia,1918,Public,In-Person,300000,https://en.wikipedia.org/wiki/Osmania_University,India,CO01,CN01,LO29,AF01,DM02,IN32,RA032
-32,National University of Distance Education,,Europe,1972,Public,Distance/In-Person,260079,https://en.wikipedia.org/wiki/National_University_of_Distance_Education,Spain,CO05,CN16,LO30,AF01,DM01,IN33,RA033
+32,National University of Distance Education,Spain,Europe,1972,Public,Distance/In-Person,260079,https://en.wikipedia.org/wiki/National_University_of_Distance_Education,Spain,CO05,CN16,LO30,AF01,DM01,IN33,RA033
 33,Rajiv Gandhi Technical University,"Bhopal, Madhya Pradesh",Asia,1998,Public,In-Person,260000,https://en.wikipedia.org/wiki/Rajiv_Gandhi_Technical_University,India,CO01,CN01,LO31,AF01,DM02,IN34,RA034
 34,Cairo University,Giza,Africa,1908,Public,In-Person,257200,https://en.wikipedia.org/wiki/Cairo_University,Egypt,CO04,CN17,LO32,AF01,DM02,IN35,RA035
 35,University of California system,California,North America,1869,Public,In-Person,256000,https://en.wikipedia.org/wiki/University_of_California,United States,CO02,CN04,LO04,AF01,DM02,IN36,RA036
 36,City University of New York,New York,North America,1961,Public,In-Person,243000,https://en.wikipedia.org/wiki/City_University_of_New_York,United States,CO02,CN04,LO23,AF01,DM02,IN37,RA037
 37,University of North Carolina system,North Carolina,North America,1789,Public,In-Person,242000,https://en.wikipedia.org/wiki/University_of_North_Carolina,United States,CO02,CN04,LO33,AF01,DM02,IN38,RA038
 38,University of Texas System,Texas,North America,1881,Public,In-Person,221337,https://en.wikipedia.org/wiki/University_of_Texas_System,United States,CO02,CN04,LO34,AF01,DM02,IN39,RA039
-39,EstÃ¡cio de SÃ¡ University,"Rio de Janeiro, Rio de Janeiro",South America,1970,Private,In-Person,215000,https://en.wikipedia.org/wiki/Est%C3%A1cio_de_S%C3%A1_University,Brazil,CO06,CN18,LO35,AF02,DM02,IN40,RA040
+39,Estácio de Sá University,"Rio de Janeiro, Rio de Janeiro",South America,1970,Private,In-Person,215000,https://en.wikipedia.org/wiki/Est%C3%A1cio_de_S%C3%A1_University,Brazil,CO06,CN18,LO35,AF02,DM02,IN40,RA040
 40,University of Guadalajara,"Guadalajara, Jalisco",North America,1791,Public,In-Person,209406,https://en.wikipedia.org/wiki/University_of_Guadalajara,Mexico,CO02,CN09,LO36,AF01,DM02,IN41,RA041
-41,University of Nuevo LeÃ³n,"Monterrey, Nuevo LeÃ³n",North America,1933,Public,In-Person,206000,https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n,Mexico,CO02,CN09,LO37,AF01,DM02,IN42,RA042
+41,University of Nuevo León,"Monterrey, Nuevo León",North America,1933,Public,In-Person,206000,https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Nuevo_Le%C3%B3n,Mexico,CO02,CN09,LO37,AF01,DM02,IN42,RA042
 42,Open University,Milton Keynes,Europe,1969,Public,Distance/In-Person,205420,https://en.wikipedia.org/wiki/Open_University,United Kingdom,CO05,CN19,LO38,AF01,DM01,IN43,RA043
-43,University of Applied Science and Technology,,Asia,1992,Public,In-Person,200000,https://en.wikipedia.org/wiki/University_of_Applied_Science_and_Technology,Iran,CO01,CN05,LO05,AF01,DM02,IN44,RA044
+43,University of Applied Science and Technology,Iran,Asia,1992,Public,In-Person,200000,https://en.wikipedia.org/wiki/University_of_Applied_Science_and_Technology,Iran,CO01,CN05,LO05,AF01,DM02,IN44,RA044
 44,Technical College System of Georgia,Georgia,North America,1970,Public,In-Person,191567,https://en.wikipedia.org/wiki/Technical_College_System_of_Georgia,United States,CO02,CN04,LO26,AF01,DM02,IN45,RA045
 45,Utah System of Higher Education,Utah,North America,1894,Public,In-Person,189351,https://en.wikipedia.org/wiki/Utah_System_of_Higher_Education,United States,CO02,CN04,LO39,AF01,DM02,IN46,RA046
 46,Russian Presidential Academy of National Economy and Public Administration,Moscow,Europe,1977,Public,In-Person,180000,https://en.wikipedia.org/wiki/Russian_Presidential_Academy_of_National_Economy_and_Public_Administration,Russian Federation,CO05,CN20,LO40,AF01,DM02,IN47,RA047
 47,King Abdulaziz University,Jeddah,Asia,1976,Public,In-Person,177234,https://en.wikipedia.org/wiki/King_Abdulaziz_University,Saudi Arabia,CO01,CN21,LO41,AF01,DM02,IN48,RA048
-48,Technical and Vocational University,,Asia,1965,Public,In-Person,175000,https://en.wikipedia.org/wiki/Technical_and_Vocational_University,Iran,CO01,CN05,LO05,AF01,DM02,IN49,RA049
+48,Technical and Vocational University,Iran,Asia,1965,Public,In-Person,175000,https://en.wikipedia.org/wiki/Technical_and_Vocational_University,Iran,CO01,CN05,LO05,AF01,DM02,IN49,RA049
 49,National Polytechnic Institute,Mexico City,North America,1936,Public,In-Person,171581,https://en.wikipedia.org/wiki/National_Polytechnic_Institute,Mexico,CO02,CN09,LO24,AF01,DM02,IN50,RA050
-50,Autonomous University of Santo Domingo,,North America,1538,Public,In-Person,170530,https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Santo_Domingo,Santo Domingo,CO02,CN22,LO42,AF01,DM02,IN51,RA051
+50,Autonomous University of Santo Domingo,Santo Domingo,North America,1538,Public,In-Person,170530,https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Santo_Domingo,Santo Domingo,CO02,CN22,LO42,AF01,DM02,IN51,RA051
 51,Ain Shams University,Cairo,Africa,1950,Public,In-Person,170000,https://en.wikipedia.org/wiki/Ain_Shams_University,Egypt,CO04,CN17,LO43,AF01,DM02,IN52,RA052
 52,University of London,London,Europe,1836,Public,In-Person,170000,https://en.wikipedia.org/wiki/University_of_London,United Kingdom,CO05,CN19,LO44,AF01,DM02,IN53,RA053
 53,Southern New Hampshire University,New Hampshire,North America,1932,Private,Distance/In-Person,170000,https://en.wikipedia.org/wiki/Southern_New_Hampshire_University,United States,CO02,CN04,LO45,AF02,DM01,IN54,RA054
@@ -57,35 +57,35 @@ Rank,Institution,city,Continent,Founded,Affiliation,DeliveryMode,Enrollment,link
 55,University of Wisconsin System,Wisconsin,North America,1848,Public,In-Person,162933,https://en.wikipedia.org/wiki/University_of_Wisconsin_System,United States,CO02,CN04,LO47,AF01,DM02,IN56,RA056
 56,Universiti Teknologi MARA,Shah Alam,Asia,1956,Public,In-Person,160957,https://en.wikipedia.org/wiki/Universiti_Teknologi_MARA,Malaysia,CO01,CN23,LO48,AF01,DM02,IN57,RA057
 57,University of the People,California,North America,2009,Private,Distance,152000,https://en.wikipedia.org/wiki/University_of_the_People,United States,CO02,CN04,LO04,AF02,DM03,IN58,RA058
-58,Korea National Open University,,Asia,1972,Public,Distance/In-Person,151413,https://en.wikipedia.org/wiki/Korea_National_Open_University,South Korea,CO01,CN24,LO49,AF01,DM01,IN59,RA059
+58,Korea National Open University,South Korea,Asia,1972,Public,Distance/In-Person,151413,https://en.wikipedia.org/wiki/Korea_National_Open_University,South Korea,CO01,CN24,LO49,AF01,DM01,IN59,RA059
 59,Dr. A.P.J. Abdul Kalam Technical University,"Lucknow, Uttar Pradesh",Asia,2000,Public,In-Person,150000,https://en.wikipedia.org/wiki/Dr._A.P.J._Abdul_Kalam_Technical_University,India,CO01,CN01,LO50,AF01,DM02,IN60,RA060
 60,Madhya Pradesh Bhoj Open University,"Bhopal, Madhya Pradesh",Asia,1991,Public,Distance,150000,https://en.wikipedia.org/wiki/Madhya_Pradesh_Bhoj_Open_University,India,CO01,CN01,LO31,AF01,DM03,IN61,RA061
 61,Sapienza University of Rome,Rome,Europe,1303,Public,In-Person,147000,https://en.wikipedia.org/wiki/Sapienza_University_of_Rome,Italy,CO05,CN25,LO51,AF01,DM02,IN62,RA062
 62,University System of Maryland,Maryland,North America,1988,Public,In-Person,144363,https://en.wikipedia.org/wiki/University_System_of_Maryland,United States,CO02,CN04,LO52,AF01,DM02,IN63,RA063
 63,University of the Republic,Montevideo,South America,1849,Public,In-Person,144108,https://en.wikipedia.org/wiki/University_of_the_Republic_(Uruguay),Uruguay,CO06,CN26,LO53,AF01,DM02,IN64,RA064
-64,Norte do ParanÃ¡ University,"Londrina, ParanÃ¡",South America,1972,Private,Distance/In-Person,130000,https://en.wikipedia.org/wiki/Universidade_Norte_do_Paran%C3%A1,Brazil,CO06,CN18,LO54,AF02,DM01,IN65,RA065
+64,Norte do Paraná University,"Londrina, Paraná",South America,1972,Private,Distance/In-Person,130000,https://en.wikipedia.org/wiki/Universidade_Norte_do_Paran%C3%A1,Brazil,CO06,CN18,LO54,AF02,DM01,IN65,RA065
 65,IU International University of Applied Sciences,Erfurt,Europe,1998,Private,Distance/In-Person,130000,https://en.wikipedia.org/wiki/IU_International_University_of_Applied_Sciences,Germany,CO05,CN27,LO55,AF02,DM01,IN66,RA066
 66,University of San Carlos of Guatemala,Guatemala City,North America,1676,Public,In-Person,124000,https://en.wikipedia.org/wiki/Universidad_de_San_Carlos_de_Guatemala,Guatemala,CO02,CN28,LO56,AF01,DM02,IN67,RA067
 67,University of Lyon,Lyon,Europe,2007,Public,In-Person,120000,https://en.wikipedia.org/wiki/University_of_Lyon,France,CO05,CN14,LO57,AF01,DM02,IN68,RA068
-68,UNIMINUTO system,,South America,1990,Private,Distance/In-Person,116782,https://en.wikipedia.org/wiki/UNIMINUTO,Colombia,CO06,CN29,LO58,AF02,DM01,IN69,RA069
+68,UNIMINUTO system,Colombia,South America,1990,Private,Distance/In-Person,116782,https://en.wikipedia.org/wiki/UNIMINUTO,Colombia,CO06,CN29,LO58,AF02,DM01,IN69,RA069
 69,Texas A&M University System,Texas,North America,1876,Public,In-Person,114691,https://en.wikipedia.org/wiki/Texas_A%26M_University_System,United States,CO02,CN04,LO34,AF01,DM02,IN70,RA070
-70,National University of CÃ³rdoba,CÃ³rdoba,South America,1613,Public,In-Person,113558,https://en.wikipedia.org/wiki/National_University_of_C%C3%B3rdoba,Argentina,CO06,CN15,LO59,AF01,DM02,IN71,RA071
+70,National University of Córdoba,Córdoba,South America,1613,Public,In-Person,113558,https://en.wikipedia.org/wiki/National_University_of_C%C3%B3rdoba,Argentina,CO06,CN15,LO59,AF01,DM02,IN71,RA071
 71,Pennsylvania State System of Higher Education,Pennsylvania,North America,1982,Public,In-Person,110428,https://en.wikipedia.org/wiki/Pennsylvania_State_System_of_Higher_Education,United States,CO02,CN04,LO60,AF01,DM02,IN72,RA072
 72,Liberty University,Virginia,North America,1971,Private,Distance/In-Person,110000,https://en.wikipedia.org/wiki/Liberty_University,United States,CO02,CN04,LO61,AF02,DM01,IN73,RA073
 73,University of Toulouse,Toulouse,Europe,1229,Public,In-Person,110000,https://en.wikipedia.org/wiki/University_of_Toulouse,France,CO05,CN14,LO62,AF01,DM02,IN74,RA074
-74,UniversitÃ© du QuÃ©bec,Quebec,North America,1968,Public,In-Person/Distance,101915,https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec,Canada,CO02,CN30,LO63,AF01,DM04,IN75,RA075
+74,Université du Québec,Quebec,North America,1968,Public,In-Person/Distance,101915,https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec,Canada,CO02,CN30,LO63,AF01,DM04,IN75,RA075
 75,Virtual University of Pakistan,"Lahore, Islamabad",Asia,2002,Public,Distance,100000,https://en.wikipedia.org/wiki/Virtual_University_of_Pakistan,Pakistan,CO01,CN06,LO64,AF01,DM03,IN76,RA076
 76,"Vietnam National University, Ho Chi Minh City",Ho Chi Minh City,Asia,1995,Public,In-Person,98648,"https://en.wikipedia.org/wiki/Vietnam_National_University,_Ho_Chi_Minh_City",Vietnam,CO01,CN31,LO65,AF01,DM02,IN77,RA077
 77,University of Belgrade,Belgrade,Europe,1808,Public,In-Person,97696,https://en.wikipedia.org/wiki/University_of_Belgrade,Serbia,CO05,CN32,LO66,AF01,DM02,IN78,RA078
 78,University of Vienna,Vienna,Europe,1365,Public,In-Person,91715,https://en.wikipedia.org/wiki/University_of_Vienna,Austria,CO05,CN33,LO67,AF01,DM02,IN79,RA079
-79,Monterrey Institute of Technology and Higher Education,"Monterrey, Nuevo LeÃ³n",North America,1943,Private,In-Person,91200,"https://en.wikipedia.org/wiki/Monterrey_Institute_of_Technology_and_Higher_Education,_Chihuahua",Mexico,CO02,CN09,LO37,AF02,DM02,IN80,RA080
+79,Monterrey Institute of Technology and Higher Education,"Monterrey, Nuevo León",North America,1943,Private,In-Person,91200,"https://en.wikipedia.org/wiki/Monterrey_Institute_of_Technology_and_Higher_Education,_Chihuahua",Mexico,CO02,CN09,LO37,AF02,DM02,IN80,RA080
 80,University of Toronto,Toronto,North America,1827,Public,In-Person,88766,https://en.wikipedia.org/wiki/University_of_Toronto,Canada,CO02,CN30,LO68,AF01,DM02,IN81,RA081
 81,Aristotle University of Thessaloniki,Thessaloniki,Europe,1925,Public,In-Person,88283,https://en.wikipedia.org/wiki/Aristotle_University_of_Thessaloniki,Greece,CO05,CN34,LO69,AF01,DM02,IN82,RA082
-82,Polytechnic University of the Philippines,,Asia,1904,Public,Distance/In-Person,83328,https://en.wikipedia.org/wiki/Polytechnic_University_of_the_Philippines,Philippines,CO01,CN35,LO70,AF01,DM01,IN83,RA083
+82,Polytechnic University of the Philippines,Philippines,Asia,1904,Public,Distance/In-Person,83328,https://en.wikipedia.org/wiki/Polytechnic_University_of_the_Philippines,Philippines,CO01,CN35,LO70,AF01,DM01,IN83,RA083
 83,Complutense University of Madrid,Madrid,Europe,1293,Public,In-Person,83000,https://en.wikipedia.org/wiki/Complutense_University_of_Madrid,Spain,CO05,CN16,LO71,AF01,DM02,IN84,RA084
-84,Farhangian University,,Asia,2012,Public,In-Person,80000,https://en.wikipedia.org/wiki/Farhangian_University,Iran,CO01,CN05,LO05,AF01,DM02,IN85,RA085
+84,Farhangian University,Iran,Asia,2012,Public,In-Person,80000,https://en.wikipedia.org/wiki/Farhangian_University,Iran,CO01,CN05,LO05,AF01,DM02,IN85,RA085
 85,Aix-Marseille University,Marseille,Europe,1409,Public,In-Person,80000,https://en.wikipedia.org/wiki/Aix-Marseille_University,France,CO05,CN14,LO72,AF01,DM02,IN86,RA086
 86,University of Hagen,Hagen,Europe,1974,Public,Distance,69982,https://en.wikipedia.org/wiki/University_of_Hagen,Germany,CO05,CN27,LO73,AF01,DM03,IN87,RA087
-87,UniversitÃ© de MontrÃ©al,,North America,1878,Public,Distance/In-Person,67109,https://en.wikipedia.org/wiki/Universit%C3%A9_de_Montr%C3%A9al,Canada,CO02,CN30,LO74,AF01,DM01,IN88,RA088
-88,University of the Philippines,,Asia,1908,Public,Distance/In-Person,64144,https://en.wikipedia.org/wiki/University_of_the_Philippines,Philippines,CO01,CN35,LO70,AF01,DM01,IN89,RA089
-89,"Academic Center for Education, Culture and Research",,Asia,1980,Private,In-Person,60000,"https://en.wikipedia.org/wiki/Academic_Center_for_Education,_Culture_and_Research",Iran,CO01,CN05,LO05,AF02,DM02,IN90,RA090
+87,Université de Montréal,Canada,North America,1878,Public,Distance/In-Person,67109,https://en.wikipedia.org/wiki/Universit%C3%A9_de_Montr%C3%A9al,Canada,CO02,CN30,LO74,AF01,DM01,IN88,RA088
+88,University of the Philippines,Philippines,Asia,1908,Public,Distance/In-Person,64144,https://en.wikipedia.org/wiki/University_of_the_Philippines,Philippines,CO01,CN35,LO70,AF01,DM01,IN89,RA089
+89,"Academic Center for Education, Culture and Research",Iran,Asia,1980,Private,In-Person,60000,"https://en.wikipedia.org/wiki/Academic_Center_for_Education,_Culture_and_Research",Iran,CO01,CN05,LO05,AF02,DM02,IN90,RA090
