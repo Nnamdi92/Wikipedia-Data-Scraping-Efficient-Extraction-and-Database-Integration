@@ -6,3 +6,4 @@ share
 pyvenv.cfg
 *.venv
 .venv
+*.env
